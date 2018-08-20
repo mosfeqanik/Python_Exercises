@@ -13,3 +13,7 @@ def draw_triangle():
 		turtle.forward(arm)
 draw_triangle()
 turtle.exitonclick()
+
+
+
+
